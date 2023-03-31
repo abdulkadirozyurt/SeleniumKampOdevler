@@ -77,4 +77,4 @@ def test_division(calculator):
 
 + **@pytest.mark.timeout:** Bir testin belirli bir sürede tamamlanması gerektiğini belirtmek için kullanılır.
 
-![TestinTab]()
+![TestinTab](https://raw.githubusercontent.com/abdulkadirozyurt/SeleniumKampOdevler/master/1.png)
