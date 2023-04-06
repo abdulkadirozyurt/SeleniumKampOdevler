@@ -67,8 +67,6 @@ def test_division(calculator):
 
 ```
 
-
-
 + **@pytest.mark.parametrize:** Aynı test fonksiyonunu farklı girdi verileri ile birden fazla kez çalıştırmak için kullanılır.
 
 + **@pytest.mark.skip:** Bir testi atlamak için kullanılır.
